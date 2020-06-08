@@ -1,0 +1,4 @@
+Birds.ipynb filter=lfs diff=lfs merge=lfs -text
+BirdPrediction.ipynb filter=lfs diff=lfs merge=lfs -text
+Birds filter=lfs diff=lfs merge=lfs -text
+Birds.h5 filter=lfs diff=lfs merge=lfs -text
